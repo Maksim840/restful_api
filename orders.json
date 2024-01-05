@@ -1,0 +1,35 @@
+[
+    {
+      "orderClientName": "Alice Johnson",
+      "orderDescription": "Office supplies",
+      "orderDeliverTo": "789 Business Avenue, Corporate City",
+      "orderItemsList": {
+        "item1": {"itemName": "Laptop Stand", "itemPrice": 29.99, "itemQuantity": 3},
+        "item2": {"itemName": "Wireless Mouse", "itemPrice": 19.95, "itemQuantity": 5}
+      },
+      "orderPrice": 149.80,
+      "orderDate": "2023-12-28T09:15:00Z"
+    },
+    {
+      "orderClientName": "Bob Anderson",
+      "orderDescription": "Home entertainment",
+      "orderDeliverTo": "321 Residential Street, Suburbia",
+      "orderItemsList": {
+        "item1": {"itemName": "4K Smart TV", "itemPrice": 599.99, "itemQuantity": 1},
+        "item2": {"itemName": "Bluetooth Soundbar", "itemPrice": 129.95, "itemQuantity": 1}
+      },
+      "orderPrice": 729.94,
+      "orderDate": "2023-12-29T18:30:00Z"
+    },
+    {
+      "orderClientName": "Charlie Brown",
+      "orderDescription": "Gardening tools",
+      "orderDeliverTo": "456 Green Gardens, Nature Town",
+      "orderItemsList": {
+        "item1": {"itemName": "Pruning Shears", "itemPrice": 14.99, "itemQuantity": 2},
+        "item2": {"itemName": "Garden Gloves", "itemPrice": 9.95, "itemQuantity": 3}
+      },
+      "orderPrice": 39.88,
+      "orderDate": "2023-12-30T12:45:00Z"
+    }
+  ]

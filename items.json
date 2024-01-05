@@ -1,0 +1,17 @@
+[
+  {
+    "itemName": "Premium Headphones",
+    "itemPrice": 99.99,
+    "itemQuantity": 20
+  },
+  {
+    "itemName": "Smartphone Charger",
+    "itemPrice": 14.95,
+    "itemQuantity": 50
+  },
+  {
+    "itemName": "Stylish Backpack",
+    "itemPrice": 39.99,
+    "itemQuantity": 30
+  }
+]

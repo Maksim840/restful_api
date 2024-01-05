@@ -8,14 +8,14 @@ app.use(express.json())
 
 
 mongoose
-    .connect('mongodb+srv://pilotich:hu2K0kPxpRNAkWFP@cluster0.jbysdhn.mongodb.net/services')
+    .connect('mongodb+srv://Maksim:4CBP3zDuJ7UJCbHI@maksim.ppszojk.mongodb.net/payments')
     .then(() => console.log("Database is ok"))
     .catch((err) => console.log("Database is not ok", err))
     
 
 app.use('/api', Router);
 
-// Starting the server on port 8010
+// Starting the server on port 8000
 app.listen(8000, (err) => {
     if(err) {
         return console.log(err);
